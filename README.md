@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swaraj-sh
 - 👀 I’m interested in making innovative projects.
 - 🌱 I’m currently learning python programming 
-- 📫 https://www.linkedin.com/in/swaraj-shandilya-45a4632a2
+- 📫 how to reach: https://www.linkedin.com/in/swaraj-shandilya-45a4632a2
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I also don't know 🙃
 
